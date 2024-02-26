@@ -16,6 +16,7 @@
 		DE7DFABB2B8BC08E003EA62D /* CatchTheTomSwift2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7DFABA2B8BC08E003EA62D /* CatchTheTomSwift2Tests.swift */; };
 		DE7DFAC52B8BC08E003EA62D /* CatchTheTomSwift2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7DFAC42B8BC08E003EA62D /* CatchTheTomSwift2UITests.swift */; };
 		DE7DFAC72B8BC08E003EA62D /* CatchTheTomSwift2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7DFAC62B8BC08E003EA62D /* CatchTheTomSwift2UITestsLaunchTests.swift */; };
+		DEB198AA2B8D1B6E00E2BE07 /* EntranceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB198A92B8D1B6E00E2BE07 /* EntranceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DE7DFAC02B8BC08E003EA62D /* CatchTheTomSwift2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatchTheTomSwift2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE7DFAC42B8BC08E003EA62D /* CatchTheTomSwift2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchTheTomSwift2UITests.swift; sourceTree = "<group>"; };
 		DE7DFAC62B8BC08E003EA62D /* CatchTheTomSwift2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchTheTomSwift2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DEB198A92B8D1B6E00E2BE07 /* EntranceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntranceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				DE7DFAAC2B8BC08E003EA62D /* Assets.xcassets */,
 				DE7DFAAE2B8BC08E003EA62D /* LaunchScreen.storyboard */,
 				DE7DFAB12B8BC08E003EA62D /* Info.plist */,
+				DEB198A92B8D1B6E00E2BE07 /* EntranceViewController.swift */,
 			);
 			path = CatchTheTomSwift2;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				DE7DFAA82B8BC08D003EA62D /* ViewController.swift in Sources */,
 				DE7DFAA42B8BC08D003EA62D /* AppDelegate.swift in Sources */,
+				DEB198AA2B8D1B6E00E2BE07 /* EntranceViewController.swift in Sources */,
 				DE7DFAA62B8BC08D003EA62D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
